@@ -1,0 +1,2 @@
+# HOTV-SeriesU6
+MT9900 U6
